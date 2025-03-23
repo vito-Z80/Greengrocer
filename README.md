@@ -34,3 +34,7 @@
 + Все графические элементы свободны и  взяты с юнистора.
 
 - <h6><b>zenject, new input system, character controller... какие-то ассеты с моделями...</b>
+
+
+![s1.PNG](screenshots/s1.PNG)
+![s2.PNG](screenshots/s2.PNG)
